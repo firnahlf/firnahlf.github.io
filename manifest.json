@@ -1,0 +1,21 @@
+{
+  "short_name": "fprtf",
+  "name": "Firna's Portfolio",
+  "icons": [
+    {
+      "src": "/img/girl.png",
+      "type": "img/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/girl.png",
+      "type": "img/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?utm_source=a2hs",
+  "background_color": "#66CDAA",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#66CDAA"
+}
